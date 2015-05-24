@@ -21,10 +21,13 @@ h1 {
     font-size: 50px;
     text-align: center;
     vertical-align: middle;
+    line-height: .5;
+    padding-top: 25%;
 }
 
 h2 {
     font-size: 30px;
+    font-weight: 200;
     text-align: center;
     vertical-align: middle;
 }
